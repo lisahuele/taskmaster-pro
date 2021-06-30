@@ -18,6 +18,8 @@ The user should clone the repository from GitHub and open up the project in the 
 This application will allow users to create tasks with descriptions and due dates. Users also are able to drag and drop tasks based on their process and can delete any task.
 Please view deployed application on [GitHub Pages](https://lisahuele.github.io/taskmaster-pro/)
 
+![Image of Taskmaster Pro](https://lisahuele.github.com/assets/Taskmaster-pro-image.png)
+
 ## Built With
 - Bootstrap
 - JavaScript
